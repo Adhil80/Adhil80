@@ -3,6 +3,7 @@ sudo apt install git
 sudo apt install gnome-tweaks
 git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
 cd WhiteSur-gtk-theme
+sudo apt install gnome-shell-extensions
 sudo ./install.sh
 sudo ./install.sh -c dark -c light
 sudo ./install.sh -s 220
